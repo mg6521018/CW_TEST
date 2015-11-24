@@ -1,0 +1,7 @@
+com/jay/demo/service/impl/UserServiceImpl.class
+com/jay/demo/bean/Permission.class
+com/jay/demo/dao/UserDao.class
+com/jay/demo/service/UserService.class
+com/jay/demo/shiro/UserRealm.class
+com/jay/demo/bean/User.class
+com/jay/demo/bean/Role.class
